@@ -1,6 +1,6 @@
 namespace ToDoAPI.Models
 {
-    public class ToDoItems
+    public class ToDoItem
     {
         public long Id { get; set; }
         public string Name { get; set; }
